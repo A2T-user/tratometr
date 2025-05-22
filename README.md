@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/A2T-user/A2T-user/blob/main/ic_launcher.webp" width="192" height="192" />
+<img src="https://github.com/A2T-user/tratometr/blob/main/app/src/main/ic_launcher-playstore.png" width="192" height="192" />
 </div>
 <h1 align="center">tratometr</h1>
 <p align="center">
