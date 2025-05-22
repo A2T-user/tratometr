@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/A2T-user/A2T-user/blob/main/ic_launcher.webp" width="192" height="192" />
 </div>
-<h1 align="center">DotList</h1>
+<h1 align="center">tratometr</h1>
 <p align="center">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge"/>
