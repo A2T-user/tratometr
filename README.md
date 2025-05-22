@@ -30,14 +30,13 @@
 
 ## Стек
 - Single Activity
-- MVVM
-- Clean Architecture
-- Retrofit2,                         
-- Dagger2 
-- Material Design
-- Fragments & Navigation Component
+- Clean Architecture, MVVM
+- Dagger2
 - Kotlin Coroutines & Flow
 - LiveData
+- Retrofit2
+- Material Design
+- Fragments & Navigation Component
 - SQLite
 
 ### Визуальный облик:
