@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge"/>
-  <img alt="API" src="https://img.shields.io/badge/Api%2026+-50f270?logo=android&logoColor=black&style=for-the-badge"/>
+
   <img alt="Fragments" src="https://img.shields.io/static/v1?style=for-the-badge&message=Fragments&color=4285F4&label="/>
   <img alt="Material" src="https://custom-icon-badges.demolab.com/badge/material-lightblue?style=for-the-badge"/>
   </br>
